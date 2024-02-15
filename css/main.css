@@ -1,0 +1,59 @@
+body{
+    padding-bottom: 100px;
+    background-color: rgb(215, 215, 215);
+}
+
+p{
+    font-family: "Spectral";
+    font-size: 18px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+h1{
+    margin-bottom: 35px;
+    text-align: center;
+}
+
+h2, h3{
+    text-align: center;
+    color: rgb(255, 255, 0);
+    background-color: rgb(0, 186, 0);
+}
+
+.csci{
+    background-color: rgb(113, 255, 113);
+    text-align: center;
+    font-family: "Roboto";
+}
+
+.elective{
+    background-color: rgb(230, 85, 85);
+    text-align: center;
+    font-family: "Roboto";
+}
+
+.club{
+    background-color: rgb(115, 115, 197);
+    text-align: center;
+    font-family: "Roboto";
+}
+
+.free{
+    background-color: rgb(156, 74, 237);
+    text-align: center;
+    font-family: "Roboto";
+}
+
+.border{
+    background-color: rgb(80, 148, 208);
+    text-align: center;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.blank{
+    background-color: white;
+}
